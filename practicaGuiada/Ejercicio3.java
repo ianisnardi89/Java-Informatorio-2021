@@ -3,11 +3,17 @@ import java.util.Scanner;
 public class Ejercicio3 {
     public static void main(String[] args) {
 
+        funcion();
+        
+    }
+
+    public static void funcion () {
         Scanner scan = new Scanner(System.in);
         int continuar = 1;
 
         while(continuar == 1) {
-
+        
+        System.out.println("Ingresa la nota");
         int nota = scan.nextInt();
         
         if (nota > 92) {

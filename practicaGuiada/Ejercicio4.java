@@ -4,6 +4,13 @@ public class Ejercicio4 {
 
     public static void main (String[] args){
 
+        funcion();
+
+    }
+
+    public static void funcion () {
+
+        
         Scanner scan = new Scanner(System.in);
         int continuar = 0;
 
@@ -38,5 +45,7 @@ public class Ejercicio4 {
             continuar = scan.nextInt();
         }
         scan.close();
+
     }
+
 }
