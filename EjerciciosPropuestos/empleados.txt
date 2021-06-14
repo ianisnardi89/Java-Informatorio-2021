@@ -1,0 +1,5 @@
+Homero,Simpson,30-04-1977,43582.08
+Lisa,Simpson,23-01-1998,56234.14
+Pedro,Sanchez,11-06-1980,90500.50
+Homero,Thompson,30-04-1977,50000.00
+Bart,Simpson,25-05-1996,62355.60
