@@ -41,6 +41,7 @@ public class Ejercicio5 {
         for (int i = 0; i < empleados.size(); i++ ) {
             System.out.println(empleados.get(i));
         }
+
     }
     public static Empleado[] peorYMejorSueldo (ArrayList<Empleado> empleados) {
         Empleado[] pobreYRico = new Empleado[2];

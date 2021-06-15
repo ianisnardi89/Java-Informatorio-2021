@@ -20,7 +20,7 @@ public class Empleado {
 
     @Override
     public String toString() {
-        return this.nombre + " " + this.apellido;
+        return this.nombre + " " + this.apellido + " " + "edad: " + getEdad() + " " + "sueldo: " + getSueldo();
     }
 
     public int getEdad () {
